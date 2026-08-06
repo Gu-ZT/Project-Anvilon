@@ -1,0 +1,14 @@
+{
+  "block.project_anvilon.example_block": "Example Block",
+  "item.project_anvilon.example_item": "Example Item",
+  "itemGroup.project_anvilon.project_anvilon_items": "Project: Anvilon",
+  "project_anvilon.configuration.log_dirt_block": "Log Dirt Block",
+  "project_anvilon.configuration.log_dirt_block.tooltip": "Whether to log the dirt block on common setup",
+  "project_anvilon.configuration.magic_number": "Magic Number",
+  "project_anvilon.configuration.magic_number.tooltip": "A magic number",
+  "project_anvilon.configuration.magic_number_introduction": "Magic Number Introduction",
+  "project_anvilon.configuration.magic_number_introduction.tooltip": "What you want the introduction message to be for the magic number",
+  "project_anvilon.configuration.section.project_anvilon.common.toml": "Project Anvilon Common Configuration",
+  "project_anvilon.configuration.section.project_anvilon.common.toml.title": "Project Anvilon Common Configuration",
+  "project_anvilon.configuration.title": "Project Anvilon Configuration"
+}

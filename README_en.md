@@ -59,3 +59,7 @@ Download the corresponding version of AnvilCraftMod and place it in the `mods` f
 ## Maintainer
 
 [@Gugle](https://github.com/Gu-ZT)
+
+## Mascot
+
+[@Argon4W](https://github.com/Argon4W)

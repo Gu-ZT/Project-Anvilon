@@ -58,3 +58,7 @@
 ## 主要维护者
 
 [@Gugle](https://github.com/Gu-ZT)
+
+## 吉祥物
+
+[@Argon4W](https://github.com/Argon4W)
